@@ -1,0 +1,5 @@
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Connection\bin\Debug\Connection.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Connection\bin\Debug\Connection.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Connection\obj\Debug\Connection.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Connection\obj\Debug\Connection.pdb

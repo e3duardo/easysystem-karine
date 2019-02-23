@@ -1,0 +1,16 @@
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\bin\Release\Library.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\bin\Release\Library.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\bin\Release\Resources.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\bin\Release\Resources.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Controls.headbutons1.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Controls.LineHorizontalSeparator.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Controls.LineVerticalSeparator.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Properties.Resources.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Windows.Forms.MessageBox.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Windows.Forms.Print.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.Controls.SearchBox.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\Library\obj\Release\Library.pdb

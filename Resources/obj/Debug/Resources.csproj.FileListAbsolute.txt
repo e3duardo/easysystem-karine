@@ -1,0 +1,8 @@
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\bin\Debug\Resources.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\bin\Debug\Resources.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\obj\Debug\Resources.Properties.Resources.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\obj\Debug\Resources.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\EasySystem_Karine\Resources\obj\Debug\Resources.pdb

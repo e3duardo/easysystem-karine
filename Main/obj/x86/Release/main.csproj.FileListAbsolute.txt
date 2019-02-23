@@ -1,0 +1,153 @@
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\main.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.abrirCaixa.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.caixa.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.fecharCaixa.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.rdlcMensal.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.cliente.cliente.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.cliente.rdlcListar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.despesa.despesa.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.fornecedor.fornecedor.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.fornecedor.rdlcListar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.cargoPesquisar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.cargo.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.funcionario.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.funcionarioMudarSenha.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.funcionarioPesquisar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.seguranca.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.login.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.orcamento.orcamento.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.antesFecharOrdemDeServico.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.cadastroDeServicos.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.ordemDeServicoFormaPagamento.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.pagarParcela.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.pesquisarOrdemDeServico.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.fecharOrdemDeServico.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.aprovarOrdemDeServico.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.rdlcListar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.produto.produto.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.produto.rdlcListar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.produto.setor.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.rdlcListar.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.rdlcMensal.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.deletarVenda.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.pagarParcela.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.rdlcDiaria.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.venda.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.vendaFormaPagamento.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.inicial.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.startForms.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.usercontrol.VerticalSeparator.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.usercontrol.LineSeparator.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\RdlCompile.cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\RdlCompile.compiled
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\main.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\backuptool.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\resources.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango16.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango22.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango32.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\webicons.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\Interop.SQLDMO.dll
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\backuptool.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\resources.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango16.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango22.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango32.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\webicons.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.BetterDialog.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.cliente.clienteJuridica.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\main.exe.config
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.exe
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\main.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\backuptool.exe
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\resources.dll
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango16.dll
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango22.dll
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango32.dll
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\webicons.dll
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\Interop.SQLDMO.dll
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\backuptool.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\resources.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango16.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango22.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\tango32.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\bin\Release\webicons.pdb
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.BetterDialog.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.abrirCaixa.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.caixa.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.fecharCaixa.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.caixa.rdlcMensal.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.cliente.cliente.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.cliente.clienteJuridica.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.cliente.rdlcListar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.despesa.despesa.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.fornecedor.fornecedor.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.fornecedor.rdlcListar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.cargoPesquisar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.cargo.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.funcionario.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.funcionarioMudarSenha.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.funcionarioPesquisar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.funcionario.seguranca.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.login.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.orcamento.orcamento.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.antesFecharOrdemDeServico.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.cadastroDeServicos.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.ordemDeServicoFormaPagamento.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.pagarParcela.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.pesquisarOrdemDeServico.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.fecharOrdemDeServico.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.aprovarOrdemDeServico.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.ordemservico.rdlcListar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.produto.produto.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.produto.rdlcListar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.produto.setor.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.rdlcListar.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.rdlcMensal.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.deletarVenda.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.pagarParcela.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.rdlcDiaria.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.venda.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.forms.venda.vendaFormaPagamento.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.inicial.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.startForms.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.Properties.Resources.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.usercontrol.VerticalSeparator.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\main.usercontrol.LineSeparator.resources
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\RdlCompile.cache
+C:\Users\Vinícius\Documents\Visual Studio 2010\Projects\businessmanagementsystem\main\obj\x86\Release\RdlCompile.compiled
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Main.exe.config
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.exe
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Main.exe.manifest
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Main.application
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Main.exe
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Main.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Library.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Library.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.Properties.Resources.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.TrustInfo.xml
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.exe.manifest
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.application
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Forms.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Reports.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Resources.dll
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Forms.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Reports.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\bin\Release\Resources.pdb
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.About.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.Login.resources
+C:\Documents and Settings\Eduardo\Meus documentos\Visual Studio 2010\Projects\easysystem\main\obj\x86\Release\Main.Start.resources

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5DB12775-A1C5-4E2E-A77F-E60DC2FEDEE2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Library</RootNamespace>
+    <AssemblyName>Library</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Npgsql">
+      <HintPath>..\..\..\..\..\..\..\Arquivos de programas\PostgreSQL\Npgsql\ms.net4.0\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Notificacao.cs" />
+    <Compile Include="Classes\QItemProduto.cs" />
+    <Compile Include="Classes\Cryptograph.cs" />
+    <Compile Include="Configuration\Settings.cs" />
+    <Compile Include="Converter\Funcoes.cs" />
+    <Compile Include="Classes\Logger.cs" />
+    <Compile Include="Classes\Password.cs" />
+    <Compile Include="Classes\Print.cs" />
+    <Compile Include="Classes\QItem.cs" />
+    <Compile Include="Classes\StringFunctions.cs" />
+    <Compile Include="Classes\Validacao.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Controls\headbutons1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\headbutons1.Designer.cs">
+      <DependentUpon>headbutons1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LineHorizontalSeparator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LineHorizontalSeparator.Designer.cs">
+      <DependentUpon>LineHorizontalSeparator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LineVerticalSeparator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LineVerticalSeparator.Designer.cs">
+      <DependentUpon>LineVerticalSeparator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notificacao.cs" />
+    <Compile Include="Structs.cs" />
+    <Compile Include="TermoCompromissoParcela.cs" />
+    <Compile Include="TermoCompromisso.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="Funcionario.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Windows\Forms\ComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\ComboBox.Designer.cs">
+      <DependentUpon>ComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\AnchorStyles.cs" />
+    <Compile Include="Windows\Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\Label.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\Label.Designer.cs">
+      <DependentUpon>Label.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\MoneyTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\MoneyTextBox.Designer.cs">
+      <DependentUpon>MoneyTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\RadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\RadioButton.Designer.cs">
+      <DependentUpon>RadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\ErrorProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\ErrorProvider.Designer.cs">
+      <DependentUpon>ErrorProvider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\DataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\DataGridView.Designer.cs">
+      <DependentUpon>DataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\TextBox.Designer.cs">
+      <DependentUpon>TextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\GroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\GroupBox.Designer.cs">
+      <DependentUpon>GroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\SplitContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\SplitContainer.Designer.cs">
+      <DependentUpon>SplitContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\Panel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\Panel.Designer.cs">
+      <DependentUpon>Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\Button.Designer.cs">
+      <DependentUpon>Button.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\MessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\MessageBox.designer.cs">
+      <DependentUpon>MessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\MyPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\MyPictureBox.Designer.cs">
+      <DependentUpon>MyPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Forms\Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Forms\Print.Designer.cs">
+      <DependentUpon>Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SearchBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SearchBox.Designer.cs">
+      <DependentUpon>SearchBox.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\headbutons1.resx">
+      <DependentUpon>headbutons1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LineHorizontalSeparator.resx">
+      <DependentUpon>LineHorizontalSeparator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LineVerticalSeparator.resx">
+      <DependentUpon>LineVerticalSeparator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Forms\MessageBox.resx">
+      <DependentUpon>MessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Forms\Print.resx">
+      <DependentUpon>Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SearchBox.resx">
+      <DependentUpon>SearchBox.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Connection\Connection.csproj">
+      <Project>{3F0A16C7-7EFE-403F-B1C1-D11528B3D507}</Project>
+      <Name>Connection</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Resources\Resources.csproj">
+      <Project>{87A00D65-3291-4BEA-9738-5C844923BD91}</Project>
+      <Name>Resources</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

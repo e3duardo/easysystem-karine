@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{87A00D65-3291-4BEA-9738-5C844923BD91}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Resources</RootNamespace>
+    <AssemblyName>Resources</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_novo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog_important.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog_information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog_urgent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog_warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_centercar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_easysystem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_legal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_1Top1Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_1Top2Center.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_1Top3Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_2Middle1Left.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_2Middle2Center.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_2Middle3Right.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_3Middle1Left.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_3Middle3Right.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_4Bottom1Left.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_4Bottom2Center.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_4Bottom3Right.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_close1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_close2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_close3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_maximize1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_maximize2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_maximize3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_minimize1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_minimize2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_minimize3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_restore1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_restore2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_restore3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_idea1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_idea1BIG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_idea2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_idea2BIG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_idea3BIG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_forma_pagamento_avista.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_servico_ideia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_cliente_pessoa_fisica.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_cliente_pessoa_juridica.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_forma_pagamento_aprazo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_forma_pagamento_cartao.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_mudar_senha.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_orcamento.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_relatorios.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_seguranca.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_servico_centercar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_servico_quitar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_venda.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_venda_quitar.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_virtual_numpad_options.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vnpo_virtual_numpad_options_edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_ideia4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
